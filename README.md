@@ -1,4 +1,4 @@
 svyClientManager
 ================
 
-TODO
+See the wiki for documenation
